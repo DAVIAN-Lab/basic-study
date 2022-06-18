@@ -16,7 +16,7 @@
 | |13|Deep Learning| | |lec 12 Transformers  Discussion 7|hw3| |Transformer: https://nlp.seas.harvard.edu/2018/04/03/attention.html#model-architecture |
 | |14|Deep Learning| | |lec 13 NLP applications Discussion 8 (pretraining)| | | |
 | |15|Deep Learning| | |lec 14-15 (Imitation learning, policy gradient) Discussion 8 (imitation learning), discussion 9 (policy graident)| | | |
-| |16|Deep Learning| | |Information Theory 1~3 (Entropy, Cross-Entropy, KL Divergence) https://www.youtube.com/watch?v=KRNz-JhWXC8&list=PLKs7xpqpX1bcQAHSjlZAv8vHftDj6kXrn   |hw2| | |
+| |16|Deep Learning| | |     Information Theory 1~3 (Entropy, Cross-Entropy, KL Divergence)    https://www.youtube.com/watch?v=KRNz-JhWXC8&list=PLKs7xpqpX1bcQAHSjlZAv8vHftDj6kXrn   |hw2| | |
 | |17|Deep Learning| | |lec 17 (Autoencoder & Latent variable model) Discussion 10| | | |
 | |18|Deep Learning| | |lec 18 (VAE)| | | |
 | |19|Deep Learning| | |lec 19 (GAN) Discussion 11| | | |
