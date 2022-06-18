@@ -1,10 +1,10 @@
 | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|
 | |순서|강의|날짜|발표자|강의|실습|조교|추가 자료|
-| |1|선대, 확률, ML| | |CS 229 lec 1 - Introduction and Logistics, Review of Linear Algebra|  실습 1,2  | |실습1 ( https://drive.google.com/file/d/1Aqtea9FWbVdteVhv3U2eV11oi7MNtJh5/view?usp=sharing ) 실습2 ( https://drive.google.com/file/d/1BD_Nc0Fbf-TzLTsbs_AYo5dZ3b0k93nu/view?usp=sharing )|
-| |2| | | |CS 229 lec 2 - Review of Matrix Calculus, Review of Probability|실습 3,4| |실습3 ( https://drive.google.com/file/d/1gFugPjiYe70TfGLvWA-fnhM5VhEY2Iu7/view?usp=sharing ) 실습4 ( https://drive.google.com/file/d/1XnJrNH5pXnfHVblGplEnhFZC56khNbQf/view?usp=sharing )|
-| |3| | | |CS 229 lec 3 - Review of Probability and Statistics, Setting of Supervised Learning|실습5,6| |실습5 ( https://drive.google.com/file/d/16WbxPodPbYgroTCklA2Jtn6C-ztoph8U/view?usp=sharing ) 실습6 ( https://drive.google.com/file/d/1uG6MRNYujZ1ZzarZs2xkw1psYEYHACWC/view?usp=sharing )|
-| |4| | | |CS 229 lec 4 - Linear Regression (Normal Equations, probabilistic interpretation), MLE |실습 7| |실습7 ( https://drive.google.com/file/d/1M0LMryw5jujFgb8Gw-ul6UAlv7vKlqjP/view?usp=sharing )|
+| |1|선대, 확률, ML| | |CS 229 lec 1 - Introduction and Logistics, Review of Linear Algebra|  실습 1,2  | | |
+| |2| | | |CS 229 lec 2 - Review of Matrix Calculus, Review of Probability|실습 3,4| | |
+| |3| | | |CS 229 lec 3 - Review of Probability and Statistics, Setting of Supervised Learning|실습5,6| | |
+| |4| | | |CS 229 lec 4 - Linear Regression (Normal Equations, probabilistic interpretation), MLE |실습 7| | |
 | |5| | | |CS 229 lec 5 - Perceptron, Logistic Regression, Newton's Method|X| | |
 | |6| | | |CS 229 lec 21 - Evaluation Metrics (F1, ROC, etc..)| | | |
 | |7|딥러닝| | |lec 1-2 (Introduction, ML basics 1) Discussion 1| | | |
