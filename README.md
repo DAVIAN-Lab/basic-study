@@ -1,10 +1,10 @@
 | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|
-| |순서|강의|날짜|발표자|강의|실습|조교|추가 자료|
-| |1|Linear Algebra, Probabilities, ML| | |CS 229 lec 1 - Introduction and Logistics, Review of Linear Algebra|  Practice 1,2  | | |
-| |2|Linear Algebra, Probabilities, ML| | |CS 229 lec 2 - Review of Matrix Calculus, Review of Probability|Practice 3,4| | |
-| |3|Linear Algebra, Probabilities, ML| | |CS 229 lec 3 - Review of Probability and Statistics, Setting of Supervised Learning|Practice 5,6| | |
-| |4|Linear Algebra, Probabilities, ML| | |CS 229 lec 4 - Linear Regression (Normal Equations, probabilistic interpretation), MLE |Practice 7| | |
+| |Order|Theme|Date|Presenter|Lecture|Practice|T.A.|Reading Materials|
+| |1|Linear Algebra, Probabilities, ML| | |CS 229 lec 1 - Introduction and Logistics, Review of Linear Algebra|  Practice1,2  | | |
+| |2|Linear Algebra, Probabilities, ML| | |CS 229 lec 2 - Review of Matrix Calculus, Review of Probability|Practice3,4| | |
+| |3|Linear Algebra, Probabilities, ML| | |CS 229 lec 3 - Review of Probability and Statistics, Setting of Supervised Learning|Practice5,6| | |
+| |4|Linear Algebra, Probabilities, ML| | |CS 229 lec 4 - Linear Regression (Normal Equations, probabilistic interpretation), MLE |Practice7| | |
 | |5|Linear Algebra, Probabilities, ML| | |CS 229 lec 5 - Perceptron, Logistic Regression, Newton's Method|X| | |
 | |6|Linear Algebra, Probabilities, ML| | |CS 229 lec 21 - Evaluation Metrics (F1, ROC, etc..)| | | |
 | |7|Deep Learning| | |lec 1-2 (Introduction, ML basics 1) Discussion 1| | | |
@@ -16,7 +16,7 @@
 | |13|Deep Learning| | |lec 12 Transformers  Discussion 7|hw3| |Transformer: https://nlp.seas.harvard.edu/2018/04/03/attention.html#model-architecture |
 | |14|Deep Learning| | |lec 13 NLP applications Discussion 8 (pretraining)| | | |
 | |15|Deep Learning| | |lec 14-15 (Imitation learning, policy gradient) Discussion 8 (imitation learning), discussion 9 (policy graident)| | | |
-| |16|Deep Learning| | |정보 이론 1~3 (Entropy, Cross-Entropy, KL Divergence) https://www.youtube.com/watch?v=KRNz-JhWXC8&list=PLKs7xpqpX1bcQAHSjlZAv8vHftDj6kXrn   |hw2| | |
+| |16|Deep Learning| | |Information Theory 1~3 (Entropy, Cross-Entropy, KL Divergence) https://www.youtube.com/watch?v=KRNz-JhWXC8&list=PLKs7xpqpX1bcQAHSjlZAv8vHftDj6kXrn   |hw2| | |
 | |17|Deep Learning| | |lec 17 (Autoencoder & Latent variable model) Discussion 10| | | |
 | |18|Deep Learning| | |lec 18 (VAE)| | | |
 | |19|Deep Learning| | |lec 19 (GAN) Discussion 11| | | |
