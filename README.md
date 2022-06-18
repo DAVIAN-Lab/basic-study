@@ -1,4 +1,4 @@
-| | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|
 | | | | | | | | | |
 | |순서|강의|날짜|발표자|강의|실습|조교|추가 자료|
 | |1|선대, 확률, ML| | |CS 229 lec 1 - Introduction and Logistics, Review of Linear Algebra|실습1,2| |실습1 ( https://drive.google.com/file/d/1Aqtea9FWbVdteVhv3U2eV11oi7MNtJh5/view?usp=sharing ) 실습2 ( https://drive.google.com/file/d/1BD_Nc0Fbf-TzLTsbs_AYo5dZ3b0k93nu/view?usp=sharing )|
