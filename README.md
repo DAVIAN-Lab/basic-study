@@ -21,5 +21,5 @@
 | |18|Deep Learning| | |lec 14-15 (Imitation learning, policy gradient) Discussion 8 (imitation learning), discussion 9 (policy graident)| | | |
 | |19|Deep Learning| | |     Information Theory 1~3 (Entropy, Cross-Entropy, KL Divergence)    https://www.youtube.com/watch?v=KRNz-JhWXC8&list=PLKs7xpqpX1bcQAHSjlZAv8vHftDj6kXrn   |hw2| | |
 | |20|Deep Learning| | |lec 17 (Autoencoder & Latent variable model), lec 18 VAE part2  Discussion 10| | | |
-| |21|Deep Learning| | |lec 18 (VAE), lec 19 (GAN) | Discussion 11 | | |
+| |21|Deep Learning| | |lec 18 (VAE), lec 19 (GAN)  Discussion 11 | | | |
 | |22|Deep Learning| | |Deep Learning EXAM| | | |
