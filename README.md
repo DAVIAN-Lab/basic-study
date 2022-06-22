@@ -5,9 +5,9 @@
 | |2|Linear Algebra, Probabilities, ML| | |주재걸 교수님 - Four Views of Matrix Multiplication, Linear Independence, Linear Transformation|  Practice3,4  | | |
 | |3|Linear Algebra, Probabilities, ML| | |주재걸 교수님 - Least Squares |  Practice 3,4  | | |
 | |4|Linear Algebra, Probabilities, ML| | |주재걸 교수님 - Eigendecomposition, SVD |  Practice 5,6  | | |
-| |5|Linear Algebra, Probabilities, ML| | |CS 229 lec 2 - Review of Matrix Calculus, Review of Probability|Practice3,4| | |
-| |6|Linear Algebra, Probabilities, ML| | |CS 229 lec 3 - Review of Probability and Statistics, Setting of Supervised Learning|Practice5,6| | |
-| |7|Linear Algebra, Probabilities, ML| | |CS 229 lec 4 - Linear Regression (Normal Equations, probabilistic interpretation), MLE |Practice7| | |
+| |5|Linear Algebra, Probabilities, ML| | |CS 229 lec 2 - Review of Matrix Calculus, Review of Probability|Practice 7| | |
+| |6|Linear Algebra, Probabilities, ML| | |CS 229 lec 3 - Review of Probability and Statistics, Setting of Supervised Learning| | | |
+| |7|Linear Algebra, Probabilities, ML| | |CS 229 lec 4 - Linear Regression (Normal Equations, probabilistic interpretation), MLE | | | |
 | |8|Linear Algebra, Probabilities, ML| | |CS 229 lec 5 - Perceptron, Logistic Regression, Newton's Method|X| | |
 | |9|Linear Algebra, Probabilities, ML| | |CS 229 lec 21 - Evaluation Metrics (F1, ROC, etc..)| | | |
 | |10|Deep Learning| | |lec 1-2 (Introduction, ML basics 1) Discussion 1| | | |
