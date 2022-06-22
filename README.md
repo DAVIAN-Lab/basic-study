@@ -1,4 +1,4 @@
-| | | | | | | | | |
+| | | | | | CS229 2019 | | | |
 |-|-|-|-|-|-|-|-|-|
 | |Order|Theme|Date|Presenter|Lecture|Practice|T.A.|Reading Materials|
 | |1|Linear Algebra, Probabilities, ML| | |CS 229 lec 1 - Introduction and Logistics, Review of Linear Algebra|  Practice1,2  | | |
