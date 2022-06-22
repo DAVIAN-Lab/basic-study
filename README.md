@@ -1,4 +1,4 @@
-| | | | | | CS229 2019 | | | |
+| | | | | |CS229 2019 https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh   Berkeley CS182    https://cs182sp21.github.io/ | | | |
 |-|-|-|-|-|-|-|-|-|
 | |Order|Theme|Date|Presenter|Lecture|Practice|T.A.|Reading Materials|
 | |1|Linear Algebra, Probabilities, ML| | |CS 229 lec 1 - Introduction and Logistics, Review of Linear Algebra|  Practice1,2  | | |
