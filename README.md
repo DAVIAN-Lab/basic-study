@@ -1,7 +1,7 @@
 | | | | | |CS229 2019 https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh   Berkeley CS182    https://cs182sp21.github.io/ | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|
 | |Order|Theme|Date|Presenter|Lecture|Practice|T.A.|Reading Materials| Slides | Video |
-| |1|Linear Algebra, Probabilities, ML| 2022.07.02 | 신재요 |주재걸 교수님 - Four Views of Matrix Multiplication, Linear Independence, Linear Transformation|  Practice 1,2  |이병근| | https://docs.google.com/file/d/1O9fl1qSmOZcoO9tXpa4QutNx1uUJJwC9/edit?usp=docslist_api&filetype=mspresentation | https://drive.google.com/file/d/14ibBH11NpWm6pHEOImNWdOHLJJjJtRZi/view?usp=drivesdk |
+| |1|Linear Algebra, Probabilities, ML| 2022.07.02 | 신재요 |주재걸 교수님 - Four Views of Matrix Multiplication, Linear Independence, Linear Transformation|  Practice 1,2  |이병근| https://drive.google.com/file/d/1waoIOobesOSWb44GGXHPjBKLo3I0IVwI/view?usp=drivesdk | https://docs.google.com/file/d/1O9fl1qSmOZcoO9tXpa4QutNx1uUJJwC9/edit?usp=docslist_api&filetype=mspresentation | https://drive.google.com/file/d/14ibBH11NpWm6pHEOImNWdOHLJJjJtRZi/view?usp=drivesdk |
 | |2|Linear Algebra, Probabilities, ML| | |주재걸 교수님 - Least Squares |  Practice 3,4  | | | | |
 | |3|Linear Algebra, Probabilities, ML| | |주재걸 교수님 - Eigendecomposition, SVD |  Practice 5,6  | | | | |
 | |4|Linear Algebra, Probabilities, ML| | |CS 229 lec 2 - Review of Matrix Calculus, Review of Probability| Practice 7 | | | | |
