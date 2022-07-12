@@ -3,7 +3,7 @@
 | |Order|Theme|Date|Presenter|Lecture|Practice|T.A.|Reading Materials| Slides | Video |
 | |1|Linear Algebra, Probabilities, ML| 2022.07.02 | 신재요 |주재걸 교수님 - Four Views of Matrix Multiplication, Linear Independence, Linear Transformation|  Practice 1,2  |이병근| https://drive.google.com/file/d/1waoIOobesOSWb44GGXHPjBKLo3I0IVwI/view?usp=drivesdk | https://docs.google.com/file/d/1O9fl1qSmOZcoO9tXpa4QutNx1uUJJwC9/edit?usp=docslist_api&filetype=mspresentation | https://drive.google.com/file/d/14ibBH11NpWm6pHEOImNWdOHLJJjJtRZi/view?usp=drivesdk |
 | |2|Linear Algebra, Probabilities, ML| 2022.07.06 | 임상범 |주재걸 교수님 - Least Squares |  Practice 3,4  |이병근| |https://drive.google.com/file/d/1bxiAJ8DCFwgMP-fw-mTBXQSdF-cuxm2Y/view?usp=sharing |https://drive.google.com/file/d/1AS6kyGBAiQnoTH-TlpPlxDAcc5fnZED2/view?usp=sharing |
-| |3|Linear Algebra, Probabilities, ML| | |주재걸 교수님 - Eigendecomposition, SVD |  Practice 5,6  | | | | |
+| |3|Linear Algebra, Probabilities, ML| 2022.07.09 | 최새미 |주재걸 교수님 - Eigendecomposition, SVD |  Practice 5,6  | 이병근 | https://drive.google.com/file/d/1Y7wz3CsjaqOe3UneP2-Rs6vgpNSPorOm/view?usp=sharing | https://drive.google.com/file/d/1jQ1aBiy1WcInpvzMESHtC-BoXu-L-cdp/view?usp=sharing | https://drive.google.com/file/d/19rJsDEh7U5UVMsgjHBfLIOS5H9z211VF/view?usp=sharing |
 | |4|Linear Algebra, Probabilities, ML| | |CS 229 lec 2 - Review of Matrix Calculus, Review of Probability| Practice 7 | | | | |
 | |5|Linear Algebra, Probabilities, ML| | |CS 229 lec 3 - Review of Probability and Statistics, Setting of Supervised Learning| X | | | | |
 | |6|Linear Algebra, Probabilities, ML| | |CS 229 lec 4 - Linear Regression (Normal Equations, probabilistic interpretation), MLE | X | | | | |
