@@ -20,5 +20,5 @@
 |15|Deep Learning| | |lec 13 NLP applications Discussion 8 (pretraining)| hw3 | | | | |
 |16|Deep Learning| 2022.08.24 | 김상우 | Information Theory 1~3 (Entropy, Cross-Entropy, KL Divergence) [Youtube](https://www.youtube.com/watch?v=KRNz-JhWXC8&list=PLKs7xpqpX1bcQAHSjlZAv8vHftDj6kXrn)   |hw2| 박민호 | | [drive link](https://drive.google.com/file/d/11kDVg7Dwa0s1fcZEjw_MXmFDO-A1g2wa/view?usp=sharing) | [drive link](https://drive.google.com/file/d/10pSOFYXiZODaeVDq1bhNygjVMPh4wHgb/view?usp=sharing) |
 |17|Deep Learning| 2022.08.27 | 박민호 |lec 17 (Autoencoder & Latent variable model), lec 18 VAE part2  Discussion 10| hw2 | 박민호 | | CS182 slides | [drive link](https://drive.google.com/file/d/1qiWp3LcCcyYzqWTJXa2CfmTJtIqSxMT4/view?usp=sharing) |
-|18|Deep Learning| | |lec 18 (VAE), lec 19 (GAN)  Discussion 11 | hw2 | | | | |
+|18|Deep Learning| 2022.08.31 | 허경훈 |lec 18 (VAE), lec 19 (GAN)  Discussion 11 | hw2 | 박민호 | | CS182 slides | [drive link](https://drive.google.com/file/d/1pFzE6PwkdO2gHkbNDQSTKtThyzlroJtp/view?usp=sharing) |
 |19|Deep Learning| | | EXAM | | | | | |
